@@ -11,7 +11,7 @@ import java.util.HashMap;
  * @author student
  */
  //public class CGPA{
-public class Main {
+public class CGPA {
     public static void main(String[] args)
     {
         Scanner cin = new Scanner(System.in);
